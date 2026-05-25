@@ -1,4 +1,4 @@
-# Daily Ledger — Personal Productivity Dashboard
+.# Daily Ledger — Personal Productivity Dashboard
 
 A Next.js (App Router) productivity dashboard with task management, a habit tracker, and an autosaving scratchpad, backed by Neon Postgres. Built to deploy on Vercel.
 
